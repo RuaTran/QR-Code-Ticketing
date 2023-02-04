@@ -7,6 +7,7 @@ This code currently live and in use on [this site](https://www.jsaucsc.org/) at 
 This version currently directly queries a SQL database as it is for simple personal use, but a version with higher level security (i.e.- speaking to a server) is available, but this is just a sample.
 
 ## To-do
+- Add example QR code on this README
 - Include scripts for automated emailing
 - Improve user experience by making an executable that allows for all functionality in one place
 
