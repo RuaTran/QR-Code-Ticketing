@@ -1,7 +1,7 @@
 
 <?php
 $q = $_GET['q'];
-$conn = mysqli_connect("162.241.216.197", "ucscjsac_sqluser", "RNjq8{mkVMvo", "ucscjsac_matsuri");
+$conn = mysqli_connect("XXX.XXX.XXX.XXX", "UN", "PW", "TABLE");
 // Check connection
 if ($conn->connect_error) {
 die("Connection failed: " . $conn->connect_error);
