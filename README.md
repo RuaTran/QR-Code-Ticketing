@@ -4,6 +4,10 @@ Not included for privacy reasons but will be once generalized are the automated 
 
 This code currently live and in use on [this site](https://www.jsaucsc.org/) at the moment, and will be have several updates made to it as more events come up.
 
+Additionally, this scanning this QR Code should yield my name as a result.
+
+![preview](https://user-images.githubusercontent.com/110074141/230957772-ef87b240-83ff-4c81-a246-c0c8f9603130.png)
+
 This version currently directly queries a SQL database as it is for simple personal use, but a version with higher level security (i.e.- speaking to a server) is available, but this is just a sample.
 
 ## To-do
